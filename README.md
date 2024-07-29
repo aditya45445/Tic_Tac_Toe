@@ -1,1 +1,2 @@
-# Tic_Tac_Toe
+# Tic-Tac-Toe
+Welcome to my Tic Tac Toe game project! This classic game is developed using Java and features an interactive user interface that allows two players to enjoy a fun and strategic game. The project showcases fundamental Java programming skills, including game logic, user interface design, and event handling. The game detects wins, handles player turns, and allows for game resets, providing a seamless and engaging user experience. Whether you're a seasoned developer or just getting started, I hope you find this project insightful and enjoyable. Feel free to explore the code, provide feedback, and contribute to its improvement!
